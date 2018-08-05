@@ -9,16 +9,13 @@ Mở rộng ngõ vào Input cho Arduino với IC 74HC165
 
 .. contents:: Nội dung
 
-Nội dung thực hiện
-******************
-
 Nguồn tham khảo
-===============
+***************
 
 * `SN74HC165N (http://playground.arduino.cc/) <http://playground.arduino.cc/Code/ShiftRegSN74HC165N>`_
 
 Nguyên lý hoạt động của IC 74HC165
-==================================
+**********************************
 
 * Giải thích nguyên lý hoạt động của IC ghi dịch 74HC165: `Nguyên lý hoạt động của IC ghi dịch 74HC165. <https://github.com/thiminhnhut/Lop6/blob/master/10.Documents/ExpandDigitalInput_74HC165.pdf>`_
 
@@ -33,7 +30,7 @@ Nguyên lý hoạt động của IC 74HC165
 .. image:: 10.Documents/images/Simulation_74HC165x2.png
 
 Giao tiếp giữa IC ghi dịch 74HC165 và Arduino
-=============================================
+*********************************************
 
 * File mô phỏng với phần mềm Proteus: `Arduino_74HC165x1.pdsprj. <https://github.com/thiminhnhut/74hc165-arduino/blob/master/30.Schematic/Arduino_74HC165x1.pdsprj>`_
 
