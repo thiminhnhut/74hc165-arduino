@@ -12,6 +12,11 @@ Mở rộng ngõ vào Input cho Arduino với IC 74HC165
 Nội dung thực hiện
 ******************
 
+Nguồn tham khảo
+===============
+
+* `SN74HC165N (http://playground.arduino.cc/) <http://playground.arduino.cc/Code/ShiftRegSN74HC165N>`_
+
 Nguyên lý hoạt động của IC 74HC165
 ==================================
 
