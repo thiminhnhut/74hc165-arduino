@@ -17,7 +17,7 @@ Nguồn tham khảo
 Nguyên lý hoạt động của IC 74HC165
 **********************************
 
-* Giải thích nguyên lý hoạt động của IC ghi dịch 74HC165: `Nguyên lý hoạt động của IC ghi dịch 74HC165. <https://github.com/thiminhnhut/Lop6/blob/master/10.Documents/ExpandDigitalInput_74HC165.pdf>`_
+* Giải thích nguyên lý hoạt động của IC ghi dịch 74HC165: `Nguyên lý hoạt động của IC ghi dịch 74HC165. <https://github.com/thiminhnhut/74hc165-arduino/blob/master/10.Documents/ExpandDigitalInput_74HC165.pdf>`_
 
 .. image:: 10.Documents/images/Diagram_74HC165.png
 
